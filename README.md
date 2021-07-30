@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Currywurst120 or Mathias
 - 👀 I’m interested in ... Gaming / Coding
-- 🌱 I’m currently learning ... Specialist for system integration
+- 🌱 Specialist for system integration
 - 📫 How to reach me ...
 
 <!---
